@@ -1,0 +1,35 @@
+body {
+    background-color: #eee;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #333;
+    margin: 0;
+    line-height: 30px;
+}
+
+#img-div {
+    text-align: center;
+    background-color: #ffffff;
+    margin: 0;
+    padding: 20px;
+}
+
+#image {
+    width: 100%;
+    max-width: max-content;
+    border-radius: 10px;
+}
+
+.content {
+    width: 80%;
+    max-width: 1000px;
+    text-align: justify;
+    margin: 0 auto;
+}
+
+.content h2 {
+    text-align: center;
+}
+
+.text-center {
+    text-align: center;
+}
